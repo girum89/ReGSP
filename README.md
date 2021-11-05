@@ -8,7 +8,7 @@ ReGSP has a simple and convenient web tool accessible [here.](https://ds.mju.ac.
 
 #### Here we provide a Linux binary package for local execution
 
-The binary package file provided here runs on linux platform and needs the followning inputs.
+The binary package file provided here runs on Linux platform and needs the followning inputs.
 
 - Amino acid reference sequences (CDS).
 - Nucleotide Reference sequnce (Ref).
